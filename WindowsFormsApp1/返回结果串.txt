@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="GBK" ?>
+<soap:Envelope 
+xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<soap:Body>
+<queryObjectOutResponse xmlns="http://www.hyjtkj.com/">
+<queryObjectOutResult>
+<root>
+<head>
+	<code>1</code>
+	<message>数据下载成功！</message>
+	<rownum>100</rownum>
+</head>
+<body>
+
+<vehispara id="0">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A3ZW33</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg> <jylsh>00140011409030010</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="1">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A54218</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409040008</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="2"> <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A529TW</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409040012</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="3">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新116669</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412240001</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="4">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AW6C56</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409070003</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="5">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A1Q276-2</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409190062</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="6">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新024647</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011501210034</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="7">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A887UB</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409090031</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="8">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A19B52-8</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409200010</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="9">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A015JG</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409090034</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="10">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AK1J32</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011410080022</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="11">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新BFC533</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412240083</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="12">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A19B52-9</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409200011</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="13">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A19B52-B</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409200013</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="14">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm> <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A1A170</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412070118</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="15">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A1Q276</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412010127</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="16">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>鲁BG2336</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412080080</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="17">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A551VF</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011410090065</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="18">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AD0C87</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412230083</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="19">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AV007E</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412040013</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="20">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A19B52-6</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409200008</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="21">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A2KF63</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011410090153</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="22">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp> <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙ACS001</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011501110125</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+<vehispara id="23">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AFU916</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412120008</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="24">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A382FC</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409030004</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="25">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A8JG69</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409030005</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="26">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A3MY72</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409040001</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="27">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A619TU</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409070002</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="28">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A3RA63</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409070004</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="29">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A98550</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409240107</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="30">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AS516B</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411110005</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="31">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A376XF</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411250045</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="32">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A22222</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410080085</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="33">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AZZZZZ</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410180003</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="34">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A916WJ</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411060065</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="35">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AWWWW</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410180004</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>14</hpzl></vehispara><vehispara id="36">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AS6J83</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411250129</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="37">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AT2332</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412300162</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="38">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新069104</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411210043</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="39">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新403224</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501120022</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="40">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新016557</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412070088</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="41">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A03H09</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409280167</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="42">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新053278</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501050102</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="43">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新053277</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501050103</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="44">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新053274</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501050106</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="45">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A082TQ</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409170119</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="46">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新402810</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501050107</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="47">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新403234</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501120026</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="48">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新403233</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501120027</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="49">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A009DV</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409030008</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="50">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AC780N</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411190098</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="51">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A888SF</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409150089</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="52">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新095211</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501090044</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="53">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新BFC536</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412240081</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="54">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A811833</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410210067</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>15</hpzl></vehispara><vehispara id="55">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AJ7S33</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409240126</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="56">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AJE063</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411250116</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="57">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AT7871</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>052017032300004</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="58">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A69L03</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409100087</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="59">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新017050</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412030068</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="60">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙017050</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412030051</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="61">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新124436</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011604280049</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="62">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AB981D</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409300013</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="63">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AAAAAA</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410180006</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="64">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙ABBBB</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410180007</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>15</hpzl></vehispara><vehispara id="65">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A6WS68</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411110088</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="66">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A7RA35</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412040016</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="67">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AP686W</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409100126</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="68">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A8A697</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412040054</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="69">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A8K839</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411270040</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="70">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A1G022</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410190064</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="71">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A9535R</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409040005</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="72">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A255VB</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409040017</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="73">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A160XA</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411190051</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="74">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A760PW</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409140048</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="75">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A585UN</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409220062</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="76">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AQS928</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409090014</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="77">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A73G86</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411060088</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="78">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙ABS070</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011503220038</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="79">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A1Q276-0</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409190070</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="80">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A610E0</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410140133</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="81">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新132894</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412010065</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="82">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新866993</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011604150055</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="83">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新000498</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412250127</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="84">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A067QR</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409170079</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="85">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新000427</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412250145</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="86">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AGGGGG</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011410210143</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="87">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AF9F72</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501160074</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="88">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A2PK37</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412100034</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="89">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AH9D93</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011411070059</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="90">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AJZ173</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011412030115</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="91">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A619TW</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409040007</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="92">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AN129V</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409040013</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="93">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A8NL90</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409300044</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="94">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>新403214</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011501120021</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara><vehispara id="95">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A180UF</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  
+
+<jylsh>00140011409090045</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara><vehispara id="96">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>闽AB7786</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011411100007</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="97">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙A86029</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011412050050</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="98">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>皖K3S337</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409160027</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>01</hpzl></vehispara>
+
+<vehispara id="99">  <shbtgyy></shbtgyy>  <bhgdtdpjyxm></bhgdtdpjyxm>  <bhgjyxm></bhgjyxm>  <bhggwzp></bhggwzp>  <bhgzlzp></bhgzlzp>  <bhgcyxm></bhgcyxm>  <bhgcyzp></bhgcyzp>  <hphm>浙AA9S73</hphm>  <bhgdpjyxm></bhgdpjyxm>  <shjg>4</shjg>  <jylsh>00140011409280047</jylsh>  <jyjgbh>3300000140</jyjgbh>  <bhgwgjyxm></bhgwgjyxm>  <hpzl>02</hpzl></vehispara>
+
+</body>
+</root>
+</queryObjectOutResult>
+</queryObjectOutResponse>
+</soap:Body>
+</soap:Envelope>
